@@ -1,0 +1,5 @@
+class pengukuran{
+	
+	public static 
+	
+}
